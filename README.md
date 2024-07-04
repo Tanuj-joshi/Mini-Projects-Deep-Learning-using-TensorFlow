@@ -17,12 +17,7 @@ Here, we have carried out some mini-Projects using TensorFlow:
       Run 2 Models using a sarcasm dataset: 1 with a Bidirectional LSTM as its layer and another with 1D 
       Convolutional layer. Plot the accuracy and loss of the two models and compare it.
 
-   ##### 4) NLP Shakespeare
-
-      Take a corpus of Shakespeare sonnets, and use them to train a model with LSTM. Then, see if that model 
-      an create poetry!
-
-   ##### 5) Sentiment Analysis
+   ##### 4) Sentiment Analysis
 
       Train on a large dataset, as well as use transfer learning of an existing set of embeddings to explore 
       overfitting in NLP
